@@ -22,3 +22,12 @@ C:\Users\EXPERT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x8
 C:\Users\EXPERT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\EXPERT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\EXPERT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\EXPERT\Documents\GitHub\CSharpApplications\MemoryGamesv0.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
